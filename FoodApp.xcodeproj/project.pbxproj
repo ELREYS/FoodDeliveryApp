@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E87D7ACA2448DCDB00A4D5BD /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D7AC92448DCDB00A4D5BD /* Food.swift */; };
+		E87D7ACC2448DD6A00A4D5BD /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D7ACB2448DD6A00A4D5BD /* Helper.swift */; };
+		E87D7ACE2448E0BD00A4D5BD /* FoodData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D7ACD2448E0BD00A4D5BD /* FoodData.swift */; };
+		E87D7AD02448E65B00A4D5BD /* DetailRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87D7ACF2448E65B00A4D5BD /* DetailRow.swift */; };
 		E8BF643C2447878900783AF3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BF643B2447878900783AF3 /* AppDelegate.swift */; };
 		E8BF643E2447878900783AF3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BF643D2447878900783AF3 /* SceneDelegate.swift */; };
 		E8BF64402447878900783AF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BF643F2447878900783AF3 /* ContentView.swift */; };
@@ -16,6 +20,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E87D7AC92448DCDB00A4D5BD /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		E87D7ACB2448DD6A00A4D5BD /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		E87D7ACD2448E0BD00A4D5BD /* FoodData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodData.swift; sourceTree = "<group>"; };
+		E87D7ACF2448E65B00A4D5BD /* DetailRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailRow.swift; sourceTree = "<group>"; };
 		E8BF64382447878900783AF3 /* FoodApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BF643B2447878900783AF3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E8BF643D2447878900783AF3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +67,10 @@
 				E8BF643B2447878900783AF3 /* AppDelegate.swift */,
 				E8BF643D2447878900783AF3 /* SceneDelegate.swift */,
 				E8BF643F2447878900783AF3 /* ContentView.swift */,
+				E87D7AC92448DCDB00A4D5BD /* Food.swift */,
+				E87D7ACB2448DD6A00A4D5BD /* Helper.swift */,
+				E87D7ACD2448E0BD00A4D5BD /* FoodData.swift */,
+				E87D7ACF2448E65B00A4D5BD /* DetailRow.swift */,
 				E8BF64412447878B00783AF3 /* Assets.xcassets */,
 				E8BF64462447878B00783AF3 /* LaunchScreen.storyboard */,
 				E8BF64492447878B00783AF3 /* Info.plist */,
@@ -147,6 +159,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8BF643C2447878900783AF3 /* AppDelegate.swift in Sources */,
+				E87D7ACA2448DCDB00A4D5BD /* Food.swift in Sources */,
+				E87D7ACC2448DD6A00A4D5BD /* Helper.swift in Sources */,
+				E87D7AD02448E65B00A4D5BD /* DetailRow.swift in Sources */,
+				E87D7ACE2448E0BD00A4D5BD /* FoodData.swift in Sources */,
 				E8BF643E2447878900783AF3 /* SceneDelegate.swift in Sources */,
 				E8BF64402447878900783AF3 /* ContentView.swift in Sources */,
 			);
