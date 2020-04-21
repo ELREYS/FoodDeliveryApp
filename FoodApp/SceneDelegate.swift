@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  FoodApp
 //
-//  Created by MMBBS0000 on 15.04.20.
-//  Copyright © 2020 gditdev. All rights reserved.
+//  Created by Virtual Mac Catalina on 18.04.20.
+//  Copyright © 2020 Virtual Mac Catalina. All rights reserved.
 //
 
 import UIKit
